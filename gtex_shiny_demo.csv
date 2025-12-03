@@ -1,0 +1,110 @@
+Broad Tissue,Detailed Tissue,RNA Integrity Number (1-10),Mapping Rate ,Exonic Rate,Genes Detected
+Blood Vessel,Artery - Aorta,6.8,0.993601,0.803692,22935
+Brain,Brain - Frontal Cortex (BA9),6.4,0.994483,0.847283,23517
+Testis,Testis,6.9,0.988913,0.728493,35680
+Blood Vessel,Artery - Tibial,7.2,0.991579,0.877622,19285
+Skin,Cells - Cultured fibroblasts,10,0.993712,0.872182,21149
+Brain,Brain - Substantia nigra,7.4,0.991366,0.810023,22778
+Blood Vessel,Artery - Aorta,7.6,0.987331,0.818436,22259
+Adipose Tissue,Adipose - Subcutaneous,6.7,0.988943,0.786797,23309
+Esophagus,Esophagus - Muscularis,8.8,0.994729,0.848378,22946
+Brain,Brain - Amygdala,6.1,0.986841,0.846393,23953
+Spleen,Spleen,8,0.989602,0.7691,24504
+Pancreas,Pancreas,7.2,0.993049,0.823677,21705
+Nerve,Nerve - Tibial,8,0.991638,0.783802,23474
+Thyroid,Thyroid,5.7,0.988753,0.758747,25162
+Heart,Heart - Atrial Appendage,8.2,0.993376,0.853514,21037
+Heart,Heart - Atrial Appendage,6.3,0.994814,0.785836,24380
+Esophagus,Esophagus - Mucosa,6.5,0.990739,0.78489,23072
+Esophagus,Esophagus - Mucosa,9,0.991359,0.814675,22148
+Lung,Lung,7.5,0.99332,0.77414,22619
+Uterus,Uterus,5.5,0.988606,0.669894,24889
+Brain,Brain - Substantia nigra,5.9,0.988585,0.835961,22305
+Liver,Liver,6.7,0.988694,0.806482,20900
+Breast,Breast - Mammary Tissue,5.6,0.991882,0.839636,21445
+Blood,Whole Blood,9.2,0.988717,0.823482,22246
+Vagina,Vagina,6.4,0.99233,0.700917,23946
+Esophagus,Esophagus - Muscularis,7.6,0.993406,0.83821,21746
+Thyroid,Thyroid,7.1,0.989048,0.780409,23152
+Nerve,Nerve - Tibial,7.2,0.991787,0.742933,24252
+Brain,Brain - Cerebellum,5.7,0.989406,0.701902,24992
+Skin,Skin - Sun Exposed (Lower leg),6.8,0.991975,0.780844,22777
+Adipose Tissue,Adipose - Visceral (Omentum),5.8,0.982017,0.80107,23862
+Esophagus,Esophagus - Muscularis,8.2,0.993251,0.839804,20607
+Pancreas,Pancreas,7,0.993089,0.867316,20980
+Colon,Colon - Transverse,8,0.989165,0.800713,23602
+Esophagus,Esophagus - Gastroesophageal Junction,5.6,0.963758,0.807634,24862
+Brain,Brain - Frontal Cortex (BA9),7.5,0.992929,0.831024,23212
+Colon,Colon - Transverse,8.1,0.985656,0.825145,25087
+Adipose Tissue,Adipose - Subcutaneous,6.2,0.922819,0.806849,24068
+Thyroid,Thyroid,6,0.9925,0.779358,27362
+Blood Vessel,Artery - Tibial,8,0.994141,0.849611,20932
+Skin,Skin - Sun Exposed (Lower leg),7.8,0.972355,0.80311,24303
+Blood Vessel,Artery - Aorta,7.6,0.989643,0.830221,21897
+Esophagus,Esophagus - Muscularis,6.7,0.993596,0.842722,21113
+Heart,Heart - Atrial Appendage,8.9,0.993492,0.819346,23387
+Esophagus,Esophagus - Mucosa,8.2,0.990541,0.812511,25002
+Blood,Whole Blood,8.7,0.980834,0.793671,18652
+Skin,Skin - Sun Exposed (Lower leg),8.2,0.986571,0.834739,23437
+Testis,Testis,6.5,0.993394,0.719144,33060
+Small Intestine,Small Intestine - Terminal Ileum,8.1,0.99286,0.814133,24045
+Blood,Cells - EBV-transformed lymphocytes,10,0.992346,0.817054,21587
+Testis,Testis,6.8,0.990637,0.713604,33184
+Brain,Brain - Hypothalamus,6.3,0.992278,0.82874,22347
+Skin,Cells - Cultured fibroblasts,10,0.994615,0.870899,18847
+Blood Vessel,Artery - Tibial,7.6,0.992013,0.828475,22690
+Nerve,Nerve - Tibial,5.7,0.993017,0.747804,24595
+Blood Vessel,Artery - Tibial,7.8,0.991378,0.78841,21311
+Spleen,Spleen,8.2,0.984533,0.742487,22983
+Esophagus,Esophagus - Muscularis,7.8,0.99164,0.829562,20931
+Blood Vessel,Artery - Tibial,7.8,0.99428,0.854743,20377
+Brain,Brain - Frontal Cortex (BA9),7.3,0.994959,0.853107,23351
+Esophagus,Esophagus - Mucosa,9.3,0.993179,0.836927,21654
+Heart,Heart - Left Ventricle,7.3,0.222864,0.85486,19077
+Blood Vessel,Artery - Aorta,8,0.991241,0.86096,22415
+Small Intestine,Small Intestine - Terminal Ileum,7.4,0.981108,0.81779,25322
+Muscle,Muscle - Skeletal,7.7,0.993369,0.864203,19998
+Thyroid,Thyroid,6.9,0.901071,0.751589,24521
+Skin,Skin - Sun Exposed (Lower leg),7.8,0.993115,0.815647,23449
+Pituitary,Pituitary,7,0.990572,0.759776,25244
+Muscle,Muscle - Skeletal,8.6,0.996404,0.881163,18520
+Brain,Brain - Anterior cingulate cortex (BA24),8.2,0.994489,0.80285,24095
+Skin,Cells - Cultured fibroblasts,9.7,0.99453,0.850274,20439
+Adipose Tissue,Adipose - Subcutaneous,7.2,0.993755,0.828315,24233
+Blood,Whole Blood,7.9,0.988706,0.737549,19755
+Skin,Skin - Not Sun Exposed (Suprapubic),7.4,0.993025,0.769945,22456
+Salivary Gland,Minor Salivary Gland,7,0.988058,0.81519,23597
+Breast,Breast - Mammary Tissue,7.5,0.990629,0.837863,21957
+Brain,Brain - Putamen (basal ganglia),6,0.992139,0.833349,22077
+Thyroid,Thyroid,7.3,0.995659,0.776295,22885
+Lung,Lung,6.9,0.976336,0.756162,23147
+Brain,Brain - Cerebellar Hemisphere,8.1,0.993624,0.729286,25836
+Adipose Tissue,Adipose - Visceral (Omentum),6.9,0.991149,0.803124,24098
+Brain,Brain - Nucleus accumbens (basal ganglia),6.4,0.988738,0.813925,24504
+Liver,Liver,7.4,0.993609,0.847073,20700
+Adipose Tissue,Adipose - Visceral (Omentum),5.8,0.984249,0.791303,23472
+Blood,Whole Blood,8.1,0.994463,0.776847,18202
+Lung,Lung,8.4,0.936125,0.790638,27283
+Esophagus,Esophagus - Muscularis,5.6,0.993712,0.814352,23971
+Muscle,Muscle - Skeletal,7.9,0.992605,0.894955,18877
+Skin,Skin - Not Sun Exposed (Suprapubic),7.6,0.990368,0.755679,23120
+Thyroid,Thyroid,6.6,0.989028,0.790876,22367
+Breast,Breast - Mammary Tissue,6.9,0.995852,0.808667,23327
+Colon,Colon - Transverse,7.1,0.989399,0.798555,23980
+Blood Vessel,Artery - Coronary,7.3,0.991291,0.77873,22619
+Brain,Brain - Anterior cingulate cortex (BA24),6,0.994418,0.828283,23085
+Brain,Brain - Hypothalamus,7.8,0.995759,0.823389,25809
+Heart,Heart - Atrial Appendage,6.5,0.993844,0.838907,20300
+Skin,Cells - Cultured fibroblasts,10,0.99422,0.868457,21349
+Brain,Brain - Nucleus accumbens (basal ganglia),7.1,0.989305,0.787451,23365
+Colon,Colon - Sigmoid,6.9,0.993732,0.803342,23373
+Adipose Tissue,Adipose - Visceral (Omentum),8.3,0.993687,0.790227,25647
+Breast,Breast - Mammary Tissue,8.3,0.993513,0.813117,23339
+Muscle,Muscle - Skeletal,8,0.99632,0.893383,18647
+Bone Marrow,Cells - Leukemia cell line (CML),9.5,0.990257,0.82933,21498
+Skin,Skin - Sun Exposed (Lower leg),7.1,0.994833,0.769797,22000
+Vagina,Vagina,6.5,0.992614,0.746325,23150
+Blood Vessel,Artery - Tibial,6.7,0.99113,0.820933,22392
+Kidney,Kidney - Cortex,5.9,0.98528,0.893496,17505
+Esophagus,Esophagus - Muscularis,6.3,0.993423,0.757739,24397
+Blood,Whole Blood,7.4,0.935903,0.783082,16845
